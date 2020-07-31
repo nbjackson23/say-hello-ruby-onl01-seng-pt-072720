@@ -4,6 +4,6 @@ end
 
 #   assigning a default value
 def say_hello (language)
-  puts "Hello, #{language} programmer"
+  puts "Hello #{language} programmer"
 end
   
