@@ -3,7 +3,7 @@ def say_hello (name)
 end
 
 #   assigning a default value
-def say_hello (name, language = "Ruby")
+def say_hello (language = "Ruby")
   puts "Hello, #{name} programmer"
 end
   
